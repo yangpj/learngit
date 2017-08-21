@@ -1,14 +1,2 @@
-d
-d
-d
-d
-assassssssssssssssssssssssssssssssssssssssssssssssa
-dsssssssc
-ddccccc
-ss
-ss
-s
-ss
-wdqewqeq
-wqewqe33333333x
-ddd
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
